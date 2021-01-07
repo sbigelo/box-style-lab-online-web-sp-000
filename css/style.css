@@ -13,7 +13,7 @@ body, html {
   min-width: 400px;
   padding: 10px;
   margin: 10px auto;
-  box-shadow: 5px 5px;
+  /*box-shadow: 5px 5px;*/
 }
 
 h4 {
