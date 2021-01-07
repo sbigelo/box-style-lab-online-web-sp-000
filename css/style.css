@@ -63,3 +63,18 @@ img {
   border-color: grey;
   box-sizing: border-box;
 }
+4.dubious {
+  background: linear-gradient(
+    to right,
+    #700,
+    #a00
+  );
+}
+
+h4.dubious:hover {
+  background: linear-gradient(
+    to right,
+    #a00,
+    #700
+  );
+}
