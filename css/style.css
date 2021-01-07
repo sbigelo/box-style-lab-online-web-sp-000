@@ -5,8 +5,9 @@ body, html {
   margin: 0 auto;
   display: block;
   text-align: center;
-  background-image: "images/white-wood.jpg";
+  background-image: url("images/white-wood.jpg");
   background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .container, h1 {
