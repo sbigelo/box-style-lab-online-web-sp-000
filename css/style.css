@@ -36,6 +36,22 @@ h4 {
   background-color: #dddd22;
 }
 
+h4.indifferent {
+  background: linear-gradient(
+    to right,
+    #770,
+    #aa0
+  );
+}
+
+h4.indifferent:hover {
+  background: linear-gradient(
+    to right,
+    #aa0,
+    #770
+  );
+}
+
 .dubious {
   border: 1px solid #aa2222;
   box-shadow: -1px 1px #aa2222, -2px 2px #aa2222, -3px 3px #aa2222, -4px 4px #aa2222, -5px 5px #aa2222;
